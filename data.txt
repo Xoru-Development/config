@@ -1,0 +1,1 @@
+solaris=https://raw.githubusercontent.com/Z3R0-cmd/x-configs/main/solarismc.json
