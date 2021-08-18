@@ -1,1 +1,4 @@
 solaris=https://raw.githubusercontent.com/Z3R0-cmd/x-configs/main/solarismc.json
+ncp=https://raw.githubusercontent.com/Z3R0-cmd/x-configs/main/ncp.json
+spartan=https://raw.githubusercontent.com/Z3R0-cmd/x-configs/main/spartan.json
+verus=https://raw.githubusercontent.com/Z3R0-cmd/x-configs/main/verus.json
